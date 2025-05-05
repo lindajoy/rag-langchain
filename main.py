@@ -130,7 +130,7 @@ class HarryPotterRAG:
 
         Question: {question}
 
-        Answer in Gen Z style with slang, internet language, and emojis:
+        Answer in simple english, try to be as concise as possible, use a couple of jokes and use emojis:
         """)
 
         # Generate response
