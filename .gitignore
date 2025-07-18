@@ -1,3 +1,14 @@
-build/*
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment
 .env
-/chroma
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
